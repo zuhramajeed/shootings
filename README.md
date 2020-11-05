@@ -5,3 +5,5 @@ Web scrapping is performed to obtain missing values specifically in longitude an
 
 Used data: name, age,	gender,	race of the victim,	date when murder happened,	death manner,	arm of victim, city and state and their longitude	latitude,	mental illness, threat level.
 
+There are 2 graphs which are plotted using plotly, therefore can not be view through Git.
+
